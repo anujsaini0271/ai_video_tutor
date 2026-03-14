@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Tutor",
+  "description": "An AI assistant that watches YouTube videos with you and explains concepts in real-time using voice interaction and visual context.",
+  "requestFramePermissions": ["microphone"]
+}
